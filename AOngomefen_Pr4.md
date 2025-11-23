@@ -1,8 +1,6 @@
 **CMSC140 Project 4 Documentation Template**
 
  Class: CMSC140 CRN XXXX  
- Program: Project \#4  
- Instructor:   
  Summary of Description: (Employee Absence Calculator)  
  Due Date: Fri. Nov 14, 2025  
  Integrity Pledge: I pledge that I have completed the programming assignment independently.  
@@ -84,11 +82,8 @@ A good test plan should be comprehensive. This means you should have a few test 
 
  **Case 3									Case 4**
 
-**Lessons Learned** \<Provide answers to the questions listed above\>**:**
-
-Write about your Learning Experience, highlighting your lessons learned and learning experience from working on this project. 
-
-What have you learned? I learned about file and how they work I learned do while \+ if else verification and I learned about non void function return
+**Lessons Learned** 
+I learned about file and how they work I learned do while \+ if else verification and I learned about non void function return
 
 What did you struggle with? I struggled a little with files not writing to but reading before I realized we didn’t need to read to the file.
 
@@ -106,8 +101,6 @@ Provide any additional resources/links/videos you used to while working on this 
 | \# |  | Y/N | Comments |
 | :---- | :---- | :---- | :---- |
 |  | **Assignment files:**  |  |  |
-|  | FirstInitialLastName\_ Assignment\#.zip | **Yes or No** | **Y** |
-|  | FirstInitialLastName\_Assignment\#.docx/.pdf       | **Yes or No** | **Y** |
 |  |  |  |  |
 |  | **Program compiles** | **Yes or No** | **Y** |
 |  | **Program runs with desired outputs related to a Test Plan** | **Yes or No** | **Y** |
