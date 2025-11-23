@@ -29,6 +29,7 @@ The program will:
 4. Print the average absences to the console and show class/author information.
 
 Example interactive session
+'''
 Please enter number of employees: 3
 what is the employee ID of employee 1: 101
 How many Absences has employee 101 had: 2
@@ -38,6 +39,7 @@ what is the employee ID of employee 3: 103
 How many Absences has employee 103 had: 1
 
 Average Employee Absences is: 2.00
+'''
 
 EmployeeAbs.txt (after the run) will contain:
 101: 2
